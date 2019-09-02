@@ -1,2 +1,2 @@
 # NDS-Backend
-Handling backend for webapp
+Backend to NDS
